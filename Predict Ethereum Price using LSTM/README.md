@@ -32,7 +32,7 @@ This project explores Ethereum's price trends over an extensive period, from 201
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
 
 ## Blog
-Here, you can find blog for reladed to this project(https://noumankhanonai.com/2023/09/18/predict-ethereum-price-using-lstm/)
+Here, you can find blog for related to this project(https://noumankhanonai.com/2023/09/18/predict-ethereum-price-using-lstm/)
 
 ## Dataset Description
 ![alt text](https://noumankhanonai.com/wp-content/uploads/2023/09/df_describe.png)
